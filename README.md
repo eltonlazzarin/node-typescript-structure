@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="Project Logo" src="https://github.com/eltonlazzarin/node-typescript-structure/blob/master/screenshots/tsnodejs.png" height="180px" width="350px" />
+	<img alt="Project Logo" src="https://github.com/eltonlazzarin/node-typescript-structure/blob/master/screenshots/tsnodejs.png" height="180px" width="380px" />
 </h1>
 
 <h3 align="center">
