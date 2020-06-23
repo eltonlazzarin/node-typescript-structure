@@ -3,7 +3,7 @@ import { User } from '@models/User';
 test('it should be ok', () => {
   const user = new User();
 
-  user.name = "Elton";
+  user.name = 'Elton';
 
   expect(user.name).toEqual('Elton');
 });
