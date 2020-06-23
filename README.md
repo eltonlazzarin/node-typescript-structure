@@ -32,10 +32,6 @@
 
 ## 👨🏻‍💻 About the project
 
-<h1 align="center">
-	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/node-typescript-structure/blob/master/screenshots/discordclone.gif" />
-</h1>
-
 <p>Simple TypeScript structure to use in future Node + TypeScript projects</p>
 
 ## 🚀 Technologies
