@@ -18,8 +18,6 @@
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/node-typescript-structure">
 
   <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/node-typescript-structure">
-
-  <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/fc7cfcf6-7748-454b-b192-7dd83b7db91d/deploy-status">
 </p>
 
 <p align="center">
@@ -67,10 +65,10 @@ $ cd node-typescript-structure
 
 ```bash
 # Install the dependencies
-$ npm i
+$ yarn
 
 # Run the web app
-$ npm start
+$ yarn dev
 ```
 
 ## 🤔 How to contribute
