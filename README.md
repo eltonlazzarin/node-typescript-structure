@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="Discord logo" src="https://github.com/eltonlazzarin/discord-clone/blob/master/screenshots/discord.svg" height="150px" width="150px" />
+	<img alt="Project Logo" src="https://github.com/eltonlazzarin/node-typescript-structure/blob/master/screenshots/tsnodejs.png" height="150px" width="150px" />
 </h1>
 
 <h3 align="center">
@@ -29,6 +29,10 @@
 </p>
 
 ## 👨🏻‍💻 About the project
+
+<h1 align="center">
+	<img alt="VSCode Project Codes" src="https://github.com/eltonlazzarin/node-typescript-structure/blob/master/screenshots/vscode.png" />
+</h1>
 
 <p>Simple TypeScript structure to use in future Node + TypeScript projects</p>
 
